@@ -1,0 +1,2 @@
+# dio_aplicacoes_praticas_deep_learning
+# dio_aplicacoes_deep_learning
